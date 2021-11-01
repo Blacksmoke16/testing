@@ -1,0 +1,13 @@
+name: testing
+version: 0.1.0
+
+authors:
+  - George Dietrich <george@dietrich.app>
+
+targets:
+  testing:
+    main: src/testing.cr
+
+crystal: 1.2.1
+
+license: MIT
